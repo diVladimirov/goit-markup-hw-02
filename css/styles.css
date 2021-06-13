@@ -53,6 +53,10 @@ body {
   text-decoration: none;
 }
 
+.center {
+  text-align: center;
+}
+
 /* PAGE-NAV */
 .page-nav .link {
   color: var(--secondary-text-color);
@@ -96,6 +100,7 @@ body {
   line-height: 1.36;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .button-style-hero {
@@ -106,6 +111,7 @@ body {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
+  text-align: center;
 }
 .button-style-hero:hover,
 .button-style-hero:focus {
@@ -126,6 +132,7 @@ body {
   font-weight: bold;
   font-size: 14px;
   line-height: 1.14;
+  text-transform: uppercase;
 }
 /* Our team */
 .section-title.name {
